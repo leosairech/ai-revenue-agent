@@ -1,0 +1,73 @@
+name,company,industry,country,company_size,website,contact_role,segment,pain_point,automation_angle,priority_score,email_subject,email_body,generated_at
+María López,Seguritech LATAM,Security Systems,Argentina,mid-market,https://seguritech.example.com,Commercial Director,Physical Security / Surveillance,slow lead qualification and fragmented follow-up across distributors,"AI agent for distributor lead qualification, routing, and personalized outreach",85,"Faster lead routing across distributors","Hi María,
+
+In companies like Seguritech LATAM, distributor-based sales cycles often introduce delays in lead qualification, especially when routing depends on manual coordination across partners.
+
+One approach we’ve seen work well is layering an AI agent that qualifies and routes leads instantly based on context, ensuring distributors act while intent is still high.
+
+Given your role in commercial strategy, this could help tighten response times without adding operational complexity.
+
+Would it make sense to share a quick example tailored to your current distributor workflow?
+
+Best,  
+Leonel",2026-04-14T06:00:00Z
+Juan Pérez,RetailNova,Retail,Argentina,enterprise,https://retailnova.example.com,Operations Manager,Retail Operations,manual campaign execution and poor visibility into conversion bottlenecks,AI workflows for campaign personalization and follow-up automation,85,"Improving campaign visibility in RetailNova","Hi Juan,
+
+In retail operations, campaign execution often becomes fragmented across channels, making it difficult to pinpoint where conversion drops actually occur.
+
+A practical approach is to introduce AI-driven workflows that track and adapt follow-ups dynamically, giving clearer visibility into bottlenecks without adding reporting overhead.
+
+From an operations perspective, this can help you prioritize what actually drives conversion rather than scaling campaigns blindly.
+
+Would you be open to seeing a short example applied to a retail use case?
+
+Best,  
+Leonel",2026-04-14T06:00:00Z
+Camila Silva,LogistiCore,Logistics,Chile,mid-market,https://logisticore.example.com,Head of Revenue Operations,Supply Chain / Logistics,disconnected customer data and inefficient outbound coordination,AI-assisted revenue ops automation across prospecting and follow-up,85,"Aligning outbound workflows in LogistiCore","Hi Camila,
+
+In logistics companies, disconnected customer data often leads to outbound efforts being poorly coordinated across teams, especially between sales and operations.
+
+We’ve seen strong results from introducing an AI layer that centralizes prospecting signals and automates follow-ups based on unified data.
+
+Given your role in revenue operations, this could help align outbound efforts without increasing manual coordination.
+
+Would it make sense to walk through a quick example based on your current setup?
+
+Best,  
+Leonel",2026-04-14T06:00:00Z
+Tomás García,FinUp Solutions,Fintech,Uruguay,startup,https://finup.example.com,CEO,Financial Services,high volume of inbound interest with limited personalization at scale,AI-driven lead triage and tailored first-touch messaging,80,"Scaling inbound without losing personalization","Hi Tomás,
+
+In fintech startups like FinUp Solutions, high inbound interest often creates a trade-off between speed and personalization, especially in early-stage scaling.
+
+A practical approach is to implement AI-driven lead triage that prioritizes and personalizes first-touch messaging based on intent signals.
+
+At the CEO level, this can help maintain conversion quality without needing to expand the team too early.
+
+Would it be useful to share a quick example tailored to fintech workflows?
+
+Best,  
+Leonel",2026-04-14T06:00:00Z
+Valentina Rojas,BuildSoft Pro,B2B SaaS,Colombia,startup,https://buildsoft.example.com,Growth Lead,B2B SaaS,inconsistent prospecting workflows and weak lead enrichment,automated lead enrichment and outbound personalization,60,"Strengthening outbound consistency at BuildSoft","Hi Valentina,
+
+In B2B SaaS teams, inconsistent prospecting workflows often result in uneven pipeline quality, especially when lead enrichment is manual or delayed.
+
+We’ve seen teams address this by automating enrichment and adapting outreach dynamically based on segment and behavior.
+
+From a growth perspective, this helps maintain pipeline consistency without scaling manual effort.
+
+Would you be open to a quick walkthrough of how this could fit your current setup?
+
+Best,  
+Leonel",2026-04-14T06:00:00Z
+Luciano Díaz,HomeShield Partners,Home Security,Argentina,small business,https://homeshield.example.com,Owner,Physical Security / Surveillance,slow lead qualification and fragmented follow-up across distributors,"AI agent for distributor lead qualification, routing, and personalized outreach",70,"Faster distributor response at HomeShield","Hi Luciano,
+
+In home security businesses working with distributors, lead qualification delays often come from fragmented follow-up across partners.
+
+A practical solution is to introduce an AI agent that routes and prioritizes leads automatically, ensuring faster response times where it matters most.
+
+As an owner, this could help improve conversion without adding operational overhead.
+
+Would it make sense to share a simple example based on your current workflow?
+
+Best,  
+Leonel",2026-04-14T06:00:00Z
